@@ -1,2 +1,2 @@
 <?php
-echo 'Test 2';
+echo 'Test 2'.time();
